@@ -1,0 +1,126 @@
+{
+    "header": {
+        "logo": "Lindenhof"
+    },
+    "hero_section": {
+        "title": "Hotel room directory",
+        "paragraph": "Welcome you at the Hotel Lindenhof by Crossworld AG, Dear guests, on the following page you will find some information regarding your stay, If you have any question, don’t hesitate to contact us",
+        "placeholder": "Please enter your question",
+        "button": "Search"
+    },
+    "best_services": {
+        "title": "Our Best Services",
+        "list": [
+            {
+                "title": "Television & Radio",
+                "img": "assets/images/list/tv.svg",
+                "paragraph": "You will find all TV & Radio channels on the display with the remote control."
+            },
+            {
+                "title": "Umbrella",
+                "img": "assets/images/list/umbrella.svg",
+                "paragraph": "You can borrow an umbrella at the reception. A deposit will be charged directly to your room bill."
+            },
+            {
+                "title": "Wake Up call",
+                "img": "assets/images/list/wakeup.svg",
+                "paragraph": "For wake-up call please contact the front desk Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Adapter",
+                "img": "assets/images/list/adapter.svg",
+                "paragraph": "If you have an electric appliance with a foreign plug, you can borrow an adapter, upon deposit, at the front desk. If you wish to keep it, it is also possible to buy the adapter at the front desk."
+            },
+            {
+                "title": "breakfast",
+                "img": "assets/images/list/breakfast.svg",
+                "paragraph": "Breakfast Buffet Daily from 07.30am to 10.00am Take your time and enjoy a generous and balanced buffet breakfast in Brienzerstübe "
+            },
+            {
+                "title": "Checkout",
+                "img": "assets/images/list/checkout.svg",
+                "paragraph": "On departure day, you may enjoy your room until 11.00 AM. Please contact the reception for a later check-out, Tel. +41 33 952 20 30"
+            },
+            {
+                "title": "Emergency no.",
+                "img": "assets/images/list/emergency.svg",
+                "paragraph": "Recepti`on Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Excursions",
+                "img": "assets/images/list/excursions.svg",
+                "paragraph": "Brienz, Interlaken and the Jungfrau Region offer numerous excursions. Relaxing by the lake, enjoying the view on a mountain peak or trying an adventure sport - there is something for everyone., Check out: https://www.brienzersee.ch/,https://www.interlaken.ch/,https://brienz-rothorn-bahn.ch/"
+            },
+            {
+                "title": "Garden",
+                "img": "assets/images/list/garden.svg",
+                "paragraph": "We invite you to relax on our sun loungers in the garden behind the hotel"
+            },
+            {
+                "title": "Internet",
+                "img": "assets/images/list/internet.svg",
+                "paragraph": "Free WIFI high speed Internet access in your room, meeting rooms and all public areas. Access code voucher is available at the front desk. For more information, please contact the front desk: Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Laundry-Dry cleaning",
+                "img": "assets/images/list/laundry.svg",
+                "paragraph": "Please fill the laundry form located in your room."
+            },
+            {
+                "title": "Meeting & event",
+                "img": "assets/images/list/meeting.svg",
+                "paragraph": "3 event and meeting rooms are available to your disposal for up to 70 persons. For reservation or offer, please contact the front desk. Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Pillows",
+                "img": "assets/images/list/pillow.svg",
+                "paragraph": "Do you wish extra pillow? Please contact the reception, Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Restaurant | Bar",
+                "img": "assets/images/list/bar.svg",
+                "paragraph": "Opening hours: 13.30 to 18.00 (small card) 18.00 to 21.00 (dinner)"
+            },
+            {
+                "title": "Shoe cleaning machine",
+                "img": "assets/images/list/shoe.svg",
+                "paragraph": "There are 2 shoe cleaning machines at your disposal. You will find it on the First Floor of the main building and at the entry of the Axalp house."
+            },
+            {
+                "title": "Smoking",
+                "img": "assets/images/list/smoking.svg",
+                "paragraph": "Smoking is forbidden in public areas as well as in all hotel rooms. Please note that smoking is only aloud in front of the hotel as well as on the balcony. In case of smoking in your room a penalty fee of CHF 150.- will be applied."
+            },
+            {
+                "title": "Wellness",
+                "img": "assets/images/list/wellness.svg",
+                "paragraph": "After an exciting day at the Brienz lake region, we recommend you to visit our Sauna or our hot pot. Please reserve the same at the reception. Towels are available in the reception."
+            }
+        ]
+    },
+    "slider": {
+        "title": "Tourist Office Interlaken",
+        "sub_title": "Why the Holiday  region Interlaken is always worth visiting",
+        "line1": "Enjoy beautiful panoramic views of lakes and mountains",
+        "line2": "Experience the customs and traditions of Switzerland, all in one place",
+        "line3": "Attend conferences and events with a magnificent view",
+        "line4": "Visit unique day trip destinations",
+        "button": "view"
+    },
+    "footer": {
+        "title": "Business Card",
+        "social_title": "Social Networks",
+        "address": {
+            "label": "Address",
+            "line1": "Hotel Lindenhof by Crossworld AG",
+            "line": "Lindenhofweg 15,CH-3855 Brienz BE"
+        },
+        "number": {
+            "label": "Contact details",
+            "Call": "Call"
+        },
+        "website": {
+            "label": "Website"
+        }
+    }
+}

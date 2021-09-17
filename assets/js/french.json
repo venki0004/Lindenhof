@@ -1,0 +1,126 @@
+{
+    "header": {
+        "logo": "Lindenhof"
+    },
+    "hero_section": {
+        "title": "Répertoire des chambres d'hôtel",
+        "paragraph": "Bienvenue au Royal-St.Georges Interlaken - MGallery Collection,C'est un grand plaisir de vous accueillir à l'Hôtel Royal-St.Georges et nous vous souhaitons un agréable séjour.Sur la page suivante, vous trouverez quelques informations concernant votre séjour.",
+        "placeholder": "Please enter your question",
+        "button": "Chercher"
+    },
+    "best_services": {
+        "title": "Nos meilleurs services",
+        "list": [
+            {
+                "title": "Television & Radio",
+                "img": "assets/images/list/tv.svg",
+                "paragraph": "Vous trouverez la liste de chaines sur l'écran en utilisant vôtre télécommande."
+            },
+            {
+                "title": "Parapluie",
+                "img": "assets/images/list/umbrella.svg",
+                "paragraph": "Vous pouvez emprunter un parapluie à la réception (un dépôtsera chargé sur votre chambre jusqu'à vôtre retour)."
+            },
+            {
+                "title": "Reveil",
+                "img": "assets/images/list/wakeup.svg",
+                "paragraph": "Pour demander un appel de réveil veuillez contacter la réception au +41 33 952 20 30."
+            },
+            {
+                "title": "Adapteur de secteur",
+                "img": "assets/images/list/adapter.svg",
+                "paragraph": "Si vous avez des prises de courant étrangères vous pouvez demander un adaptateur à la réception en moyennant un dépôt, il est aussi possible d'acheter un de nos adaptateurs."
+            },
+            {
+                "title": "Petit déjeuner",
+                "img": "assets/images/list/breakfast.svg",
+                "paragraph": "Buffet petit déjeuner Tous les jours de 07.30 à 10.00 Prenez votre temps et savourez nos spécialités régionales dans nôtre Brienzerstübe."
+            },
+            {
+                "title": "Départ",
+                "img": "assets/images/list/checkout.svg",
+                "paragraph": "Le jour de votre départ vous pouvez profiter de la chambre jusqu'à 11.00 AM. Si vous désirez rester plus longtemps merci de contacter au plus vite la réception au +41 33 952 20 30."
+            },
+            {
+                "title": "Numéro pour les urgences",
+                "img": "assets/images/list/emergency.svg",
+                "paragraph": "Rezeption Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Excursions",
+                "img": "assets/images/list/excursions.svg",
+                "paragraph": "Brienz, Interlaken et la région de la Jungfrau offre de nombreuses excursions. Relaxez-vous au bord du lac, admirez les majestueux sommets de l'Oberland bernois où essayez-vous aux sports extrêmes en toute sûreté. Pour de plus amples information: https://www.brienzersee.ch/,https://www.interlaken.ch/,https://brienz-rothorn-bahn.ch/"
+            },
+            {
+                "title": "Jardin",
+                "img": "assets/images/list/garden.svg",
+                "paragraph": "Nous vous invitons dans notre jardin à l'arrière de l'hotel, où vous pourrez vous relaxer et profiter du soleil."
+            },
+            {
+                "title": "Internet",
+                "img": "assets/images/list/internet.svg",
+                "paragraph": "Une connexion WIFI à haut débit est disponible dans tout l'hotel pour vous. Le code d'accès est disponible à la réception. Pour plus d'informations merci de contacter la réception: Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Blanchissage-Lavage à sec",
+                "img": "assets/images/list/laundry.svg",
+                "paragraph": "Veuillez remplir le formulaire de blanchisserie qui se trouvedans votre chambre."
+            },
+            {
+                "title": "Conférences et banquets",
+                "img": "assets/images/list/meeting.svg",
+                "paragraph": "3 salles de conférence pouvant accueillir jusqu'à 70 personnes sont disponible à l'intérieure de l'hôtel. Pour réserver une salle où pour de plus amples informations veuillez contacter la réception au +41 33 952 20 30."
+            },
+            {
+                "title": "Oreillers",
+                "img": "assets/images/list/pillow.svg",
+                "paragraph": "Désirez-vous un oreiller supplémentaire ? Veuillez contacterla réception, Tél. +41 33 952 20 30."
+            },
+            {
+                "title": "Restaurant | Bar",
+                "img": "assets/images/list/bar.svg",
+                "paragraph": "Heures d'ouverture : 13.30 à 18.00 (petite carte) 18.00 à 21.00 (dîner)"
+            },
+            {
+                "title": "Machine à nettoyer les chaussures",
+                "img": "assets/images/list/shoe.svg",
+                "paragraph": "Deux machines à nettoyer les chaussures sont à votredisposition. Vous les trouverez au premier étage du bâtimentprincipal et à l'entrée de la Maison Axalp."
+            },
+            {
+                "title": "Fumée",
+                "img": "assets/images/list/smoking.svg",
+                "paragraph": "Ilest strictement interdit de fumer dans tous les locaux publics de l'hôtel ainsi que dans les chambres à l'exception de balconset de la terrasse externe devant le bar. Des frais de nettoyageupplémentaire à hauteur de CHF 150.- serons ajoutés à votrenote si vous fumer dans votre chambre."
+            },
+            {
+                "title": "Bien-être",
+                "img": "assets/images/list/wellness.svg",
+                "paragraph": "Après une journée passionnante dans la région du lac de Brienz, nous vous recommandons de visiter notre Sauna ou notre pot chaud. Veuillez les réserver à la réception. Des serviettes sont disponibles à la réception."
+            }
+        ]
+    },
+    "slider": {
+        "title": "Office de tourisme Interlaken",
+        "sub_title": "Pourquoi la région de vacances Interlaken vaut toujours le détour",
+        "line1": "Profitez de belles vues panoramiques sur les lacs et les montagnes",
+        "line2": "Découvrez les coutumes et traditions de la Suisse, le tout en un seul endroit",
+        "line3": "Assistez à des conférences et à des événements avec une vue magnifique",
+        "line4": "Visitez des destinations d'excursion d'une journée uniques",
+        "button": "Vue"
+    },
+    "footer": {
+        "title": "Carte de visite",
+        "social_title": "Social Networks",
+        "address": {
+            "label": "L‘adresse",
+            "line1": "Hotel Lindenhof by Crossworld AG",
+            "line": "Lindenhofweg 15,CH-3855 Brienz BE"
+        },
+        "number": {
+            "label": "Coordonnées",
+            "Call": "Appeler"
+        },
+        "website": {
+            "label": "Site web"
+        }
+    }
+}

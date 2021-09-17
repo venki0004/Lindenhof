@@ -1,0 +1,126 @@
+{
+    "header": {
+        "logo": "Lindenhof"
+    },
+    "hero_section": {
+        "title": "Hotelzimmerverzeichnis",
+        "paragraph": "Willkommen bei Royal-St.Georges Interlaken - MGallery Collection Wir freuen uns, Sie im Hotel Royal-St.Georges begrüßen zu dürfen und wünschen Ihnen einen angenehmen Aufenthalt. Auf der folgenden Seite finden Sie einige Informationen zu Ihrem Aufenthalt.",
+        "placeholder": "Please enter your question",
+        "button": "Suche"
+    },
+    "best_services": {
+        "title": "Unsere besten Dienstleistungen",
+        "list": [
+            {
+                "title": "Television & Radio",
+                "img": "assets/images/list/tv.svg",
+                "paragraph": "You will find all TV & Radio channels on the display with the remote control."
+            },
+            {
+                "title": "Regenschirm",
+                "img": "assets/images/list/umbrella.svg",
+                "paragraph": "Regen? Wir können helfen. An der Rezeption können Sie sich hoteleigene Regenschirme gegen ein Deposit ausleihen."
+            },
+            {
+                "title": "Weckruf",
+                "img": "assets/images/list/wakeup.svg",
+                "paragraph": "Für einen Weckruf kontaktieren Sie bitte die Rezeption Tel.+41 33 952 20 30."
+            },
+            {
+                "title": "Adapter",
+                "img": "assets/images/list/adapter.svg",
+                "paragraph": "Falls Sie ein Gerät mit ausländischem Stecker haben, können Sie an der Rezeption gegen Kaution einen Adapter ausleihen. Sollten Sie für Ihre Weiterreise diesen benötigen, so können Sie den Adapter an der Rezeption käuflich erwerben."
+            },
+            {
+                "title": "Frühstück",
+                "img": "assets/images/list/breakfast.svg",
+                "paragraph": "Frühstücksbuffet Täglich von 07.30 Uhr bis 10.00 Uhr Nehmen Sie sich Zeit und geniessen Sie die Auswahl beim Frühstücksbüffet im Brienzerstübe."
+            },
+            {
+                "title": "Abreise",
+                "img": "assets/images/list/checkout.svg",
+                "paragraph": "Am Abreisetag steht Ihnen das Zimmer bis 11 Uhr zur Verfügung. Möchten Sie später abreisen, wenden Sie sich bitte an die Rezeption Tel. +41 33 952 20 30"
+            },
+            {
+                "title": "Notfallnummer",
+                "img": "assets/images/list/emergency.svg",
+                "paragraph": "Rezeption Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Ausflüge",
+                "img": "assets/images/list/excursions.svg",
+                "paragraph": "Brienz, Interlaken und die Jungfrau Region bieten zahlreiche Ausflugsmöglichkeiten; ob Entspannen am See, die Aussicht genießen in den Bergen oder Action pur bei Adventure Sports, es ist für jeden etwas dabei. Informieren Sie sich unter https://www.brienzersee.ch/,https://www.interlaken.ch/,https://brienz-rothorn-bahn.ch/"
+            },
+            {
+                "title": "Garten",
+                "img": "assets/images/list/garden.svg",
+                "paragraph": "Wir laden Sie ein die Liegestühle im Garten hinter dem Hotel zum Sonnenbaden zu nutzen."
+            },
+            {
+                "title": "internet",
+                "img": "assets/images/list/internet.svg",
+                "paragraph": "Kostenloses WIFI-Lan in den Zimmern, Seminarräumen und allen öffentlichen Bereichen im Hotel. Zugangscode Voucher erhalten Sie an der Rezeption. Für weitere Informationen fragen Sie bitte die Rezeption: Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Wäscheservice-Chemische Reinigung",
+                "img": "assets/images/list/laundry.svg",
+                "paragraph": "Bitte füllen Sie das Wäsche Formular in Ihrem Zimmer aus."
+            },
+            {
+                "title": "Seminare & Bankette",
+                "img": "assets/images/list/meeting.svg",
+                "paragraph": "3 Veranstaltungsräume bis 70 Personen stehen für Sie im Hotel zur Verfügung. Für Reservierung oder Anfrage, bitte kontaktieren Sie unsere Rezeption Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Kissen",
+                "img": "assets/images/list/pillow.svg",
+                "paragraph": "Wünschen Sie ein zusätzliches Kissen? Bitte kontaktieren Sie die Rezeption, Tel. +41 33 952 20 30."
+            },
+            {
+                "title": "Restaurant | Bar",
+                "img": "assets/images/list/bar.svg",
+                "paragraph": "Öffnungszeiten: 13.30 bis 18.00 Uhr (kleine Karte) 18.00 bis 21.00 Uhr (Abendessen)"
+            },
+            {
+                "title": "Schuhputzmaschine",
+                "img": "assets/images/list/shoe.svg",
+                "paragraph": "Es stehen Ihnen 2 Schuhreinigungsmaschinen zur Verfügung. Sie finden sie im ersten Stock des Hauptgebäudes und am Eingang des Axalp-Hauses."
+            },
+            {
+                "title": "Rauchen",
+                "img": "assets/images/list/smoking.svg",
+                "paragraph": "Alle öffentlichen Bereiche sowie die Zimmer im Hotel Lindenhof Brienz sind rauchfrei. Wir möchten Sie daher höflich darauf hinweisen, dass das Rauchen einzig auf den Balkonen sowie vor dem Hotel gestattet ist. Bei Missachtung des Rauchverbots im Zimmer, erlauben wir uns eine Reinigungsgebühr in der Höhe von CHF 150.- zu erheben."
+            },
+            {
+                "title": "Wellness",
+                "img": "assets/images/list/wellness.svg",
+                "paragraph": "Nach einem erlebnisreichen Tag in der Brienzerseeregion empfehlen wir Ihnen einen Besuch in unserer Sauna oder unserem Hot Pot. Bitte reservieren Sie diese an der Rezeption. Handtücher sind an der Rezeption erhältlich."
+            }
+        ]
+    },
+    "slider": {
+        "title": "Touristeninformation Interlaken",
+        "sub_title": "Warum die Ferienregion Interlaken immer einen Besuch wert ist",
+        "line1": "Genießen Sie herrliche Panoramablicke auf Seen und Berge",
+        "line2": "Erleben Sie die Bräuche und Traditionen der Schweiz an einem Ort",
+        "line3": "Besuchen Sie Konferenzen und Events mit einer herrlichen Aussicht",
+        "line4": "Besuchen Sie einzigartige Ausflugsziele",
+        "button": "Sicht"
+    },
+    "footer": {
+        "title": "VisitenKarte",
+        "social_title": "Soziale Netzwerke:",
+        "address": {
+            "label": "Adresse",
+            "line1": "Hotel Lindenhof by Crossworld AG",
+            "line": "Lindenhofweg 15, CH-3855 Brienz BE"
+        },
+        "number": {
+            "label": "Kontaktdaten",
+            "Call": "Anrufen"
+        },
+        "website": {
+            "label": "Webseite:"
+        }
+    }
+}
