@@ -316,7 +316,7 @@
                 $('.slider #s_button').html(data.slider.button);
 
                 $(".services #list").remove();
-                $('.services').append('<div id="list"></div>');
+                $('.services').append('<div id="list" class="list-data"></div>');
                 data.best_services.list.forEach(function (item, index) {
                     $(".services #list").append(`<div class="accordion-container title_id">
                     <a class="accordion-toggle">
