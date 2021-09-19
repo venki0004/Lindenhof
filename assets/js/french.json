@@ -4,12 +4,12 @@
     },
     "hero_section": {
         "title": "Répertoire des chambres d'hôtel",
-        "paragraph": "Bienvenue au Royal-St.Georges Interlaken - MGallery Collection,C'est un grand plaisir de vous accueillir à l'Hôtel Royal-St.Georges et nous vous souhaitons un agréable séjour.Sur la page suivante, vous trouverez quelques informations concernant votre séjour.",
+        "paragraph": "Chers clients, bienvenue à l'hôtel Lindenhof by Crossworld AG. Veuillez trouver ci-dessous les informations concernant votre séjour. Si vous avez des questions, n'hésitez pas à nous contacter. Notre équipe se fera un plaisir de vous aider.",
         "placeholder": "Please enter your question",
         "button": "Chercher"
     },
     "best_services": {
-        "title": "Nos meilleurs services",
+        "title": "Nos services",
         "list": [
             {
                 "title": "Television & Radio",
@@ -24,7 +24,7 @@
             {
                 "title": "Reveil",
                 "img": "assets/images/list/wakeup.svg",
-                "paragraph": "Pour demander un appel de réveil veuillez contacter la réception au +41 33 952 20 30."
+                "paragraph": "Pour demander un appel de réveil veuillez contacter la réception au <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Adapteur de secteur",
@@ -32,34 +32,34 @@
                 "paragraph": "Si vous avez des prises de courant étrangères vous pouvez demander un adaptateur à la réception en moyennant un dépôt, il est aussi possible d'acheter un de nos adaptateurs."
             },
             {
-                "title": "Petit déjeuner",
+                "title": "Petit-déjeuner",
                 "img": "assets/images/list/breakfast.svg",
-                "paragraph": "Buffet petit déjeuner Tous les jours de 07.30 à 10.00 Prenez votre temps et savourez nos spécialités régionales dans nôtre Brienzerstübe."
+                "paragraph": "Petit-déjeuner buffet </br> Tous les jours de <strong>07.30h à 10.00h</strong> </br> Prenez votre temps et savourez un petit-déjeuner buffet généreux et équilibré dans le Brienzerstübe. </br> Service de petit-déjeuner en chambre également disponible sur demande."
             },
             {
                 "title": "Départ",
                 "img": "assets/images/list/checkout.svg",
-                "paragraph": "Le jour de votre départ vous pouvez profiter de la chambre jusqu'à 11.00 AM. Si vous désirez rester plus longtemps merci de contacter au plus vite la réception au +41 33 952 20 30."
+                "paragraph": "Le jour de votre départ vous pouvez profiter de la chambre jusqu'à <strong>11.00 AM.</strong> Si vous désirez rester plus longtemps merci de contacter au plus vite la réception au <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Numéro pour les urgences",
                 "img": "assets/images/list/emergency.svg",
-                "paragraph": "Rezeption Tel. +41 33 952 20 30."
+                "paragraph": "Rezeption Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Excursions",
                 "img": "assets/images/list/excursions.svg",
-                "paragraph": "Brienz, Interlaken et la région de la Jungfrau offre de nombreuses excursions. Relaxez-vous au bord du lac, admirez les majestueux sommets de l'Oberland bernois où essayez-vous aux sports extrêmes en toute sûreté. Pour de plus amples information: https://www.brienzersee.ch/,https://www.interlaken.ch/,https://brienz-rothorn-bahn.ch/"
+                "paragraph": "Brienz, Interlaken et la région de la Jungfrau offre de nombreuses excursions. Relaxez-vous au bord du lac, admirez les majestueux sommets de l'Oberland bernois où essayez-vous aux sports extrêmes en toute sûreté. Pour de plus amples information: </br> <a href='https://www.brienzersee.ch/'  target='_blank'>https://www.brienzersee.ch</a> </br> <a href='https://www.interlaken.ch/'  target='_blank'>https://www.interlaken.ch </a> </br>  <a href='https://brienz-rothorn-bahn.ch/'  target='_blank'>https://brienz-rothorn-bahn.ch</a> </br>"
             },
             {
                 "title": "Jardin",
                 "img": "assets/images/list/garden.svg",
-                "paragraph": "Nous vous invitons dans notre jardin à l'arrière de l'hotel, où vous pourrez vous relaxer et profiter du soleil."
+                "paragraph": "Nous vous invitons à vous détendre sur nos chaises longues dans le jardin situé devant l'hôtel."
             },
             {
                 "title": "Internet",
                 "img": "assets/images/list/internet.svg",
-                "paragraph": "Une connexion WIFI à haut débit est disponible dans tout l'hotel pour vous. Le code d'accès est disponible à la réception. Pour plus d'informations merci de contacter la réception: Tel. +41 33 952 20 30."
+                "paragraph": "Une connexion WIFI à haut débit est disponible dans tout l'hotel pour vous. Le code d'accès est disponible à la réception. Pour plus d'informations merci de contacter la réception: Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Blanchissage-Lavage à sec",
@@ -69,17 +69,17 @@
             {
                 "title": "Conférences et banquets",
                 "img": "assets/images/list/meeting.svg",
-                "paragraph": "3 salles de conférence pouvant accueillir jusqu'à 70 personnes sont disponible à l'intérieure de l'hôtel. Pour réserver une salle où pour de plus amples informations veuillez contacter la réception au +41 33 952 20 30."
+                "paragraph": "3 salles de conférence pouvant accueillir jusqu'à 70 personnes sont disponible à l'intérieure de l'hôtel. Pour réserver une salle où pour de plus amples informations veuillez contacter la réception au <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Oreillers",
                 "img": "assets/images/list/pillow.svg",
-                "paragraph": "Désirez-vous un oreiller supplémentaire ? Veuillez contacterla réception, Tél. +41 33 952 20 30."
+                "paragraph": "Souhaitez-vous un oreiller supplémentaire ? Ajoutez également en cas d'allergie, veuillez contacter la réception, Tél. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Restaurant | Bar",
                 "img": "assets/images/list/bar.svg",
-                "paragraph": "Heures d'ouverture : 13.30 à 18.00 (petite carte) 18.00 à 21.00 (dîner)"
+                "paragraph": "Heures d'ouverture:</br> <strong> 13.30 à 18.00 (petite carte)</strong> </br> <strong> 18.00 à 21.00 (dîner)</strong>"
             },
             {
                 "title": "Machine à nettoyer les chaussures",
@@ -89,7 +89,7 @@
             {
                 "title": "Fumée",
                 "img": "assets/images/list/smoking.svg",
-                "paragraph": "Ilest strictement interdit de fumer dans tous les locaux publics de l'hôtel ainsi que dans les chambres à l'exception de balconset de la terrasse externe devant le bar. Des frais de nettoyageupplémentaire à hauteur de CHF 150.- serons ajoutés à votrenote si vous fumer dans votre chambre."
+                "paragraph": "Ilest strictement interdit de fumer dans tous les locaux publics de l'hôtel ainsi que dans les chambres à l'exception de balconset de la terrasse externe devant le bar. Des frais de nettoyageupplémentaire à hauteur de <strong>CHF 150.</strong> - serons ajoutés à votrenote si vous fumer dans votre chambre."
             },
             {
                 "title": "Bien-être",
@@ -99,8 +99,8 @@
         ]
     },
     "slider": {
-        "title": "Office de tourisme Interlaken",
-        "sub_title": "Pourquoi la région de vacances Interlaken vaut toujours le détour",
+        "title": "Office de tourisme Brienz",
+        "sub_title": "Pourquoi la région de vacances Brienz vaut toujours le détour",
         "line1": "Profitez de belles vues panoramiques sur les lacs et les montagnes",
         "line2": "Découvrez les coutumes et traditions de la Suisse, le tout en un seul endroit",
         "line3": "Assistez à des conférences et à des événements avec une vue magnifique",
@@ -122,5 +122,9 @@
         "website": {
             "label": "Site web"
         }
+    },
+    "qr": {
+        "title":"Scanner QR",
+        "description":"Pour obtenir les coordonnées de votre smartphone."
     }
 }

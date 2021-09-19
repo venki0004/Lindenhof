@@ -34,8 +34,8 @@
                         </svg>
                     </label>
                     <select name="language" id="language">
-                        <option value="en" ()>English</option>
-                        <option value="german">German</option>
+                        <option value="en">English</option>
+                        <option value="german" selected>German</option>
                         <option value="french">French</option>
                     </select>
                 </div>
@@ -48,7 +48,7 @@
                         find
                         some information regarding your stay, If you have any question, don’t hesitate to contact us</P>
                     <div class="search-section">
-                        <input class="search-input" type="text" placeholder="Please enter your question..." />
+                        <input class="search-input" type="text" placeholder="" />
                         <button type="button" id="serach-btn">Search</button>
                     </div>
                 </section>
@@ -163,7 +163,16 @@
 
                         <div>
                             <a href="tel:+41339522030">+41 33 952 20 30</a>
-                            <a href="tel:+41339522033" style="margin-top: 0.5em;">+41 33 952 20 33</a>
+                        </div>
+                    </li>
+                    <li>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+                            <path  fill="#59443E" d="M21 23h-18l3-6h2.203l-1.967 4h11.527l-1.956-4h2.193l3 6zm-18.236-4h-2.764v-14h4v-4h16v4h4v14h-2.764l-2-4h-14.472l-2 4zm13.236-8h-2v1h2v-1zm0-2h-2v1h2v-1zm3 2h-2v1h2v-1zm0-2h-2v1h2v-1zm-13-4h12v-2h-12v2zm-1 7h7v-3h-7v3z"/>
+                        </svg>
+
+
+                        <div>
+                            <a href="fax:+41.33.9522033" style="margin-top: 0.5em;">+41 33 952 20 40</a>
                         </div>
                     </li>
                     <li>
@@ -192,12 +201,12 @@
                 </ul>
             </div>
             <div class="right ">
-                <h2 class="section-title">Other Hotel info</h2>
+                <!-- <h2 class="section-title">Other Hotel info</h2> -->
                 <div class="scanner-section">
-                    <img src="assets/images/scanner.jpg" alt="scanner" width="100" height="100" />
+                    <img src="assets/images/scanner.jpg" alt="scanner" width="150" height="150" />
                     <div class="scanner-content">
-                        <h5>Scan QR</h5>
-                        <p>To get the system on your smartphone</p>
+                        <h5 id="head">Scan QR</h5>
+                        <p id="desc">To get the system on your smartphone</p>
                     </div>
                 </div>
                 <div class="media">
@@ -227,7 +236,7 @@
                             </a>
                         </li>
                     </ul>
-                    <h3 class="weather-title">Weather</h3>
+                    <!-- <h3 class="weather-title">Weather</h3>
                     <div class="weather">
                         <figure>
                             <img src="./assets/images/1.svg" alt="" width="50" height="50" />
@@ -243,7 +252,7 @@
                                 <p>Thu, 10-21</p>
                             </div>
                         </figure>
-                    </div>
+                    </div> -->
                 </div>
 
             </div>
@@ -253,7 +262,7 @@
     <!-- --------------------------<Scripts>---------------------------------- -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script>
-        getData('en');
+        getData('german');
         $('select').on('change', function () {
             getData(this.value);
         });
@@ -322,7 +331,8 @@
                 $('.slider #s_line3').html(data.slider.line3);
                 $('.slider #s_line4').html(data.slider.line4);
                 $('.slider #s_button').html(data.slider.button);
-
+                $('.scanner-section #head').html(data.qr.title);
+                $('.scanner-section #desc').html(data.qr.description);
                 $(".services #list").remove();
                 $('.services').append('<div id="list" class="list-data"></div>');
 

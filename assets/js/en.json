@@ -4,12 +4,12 @@
     },
     "hero_section": {
         "title": "Hotel room directory",
-        "paragraph": "Welcome you at the Hotel Lindenhof by Crossworld AG, Dear guests, on the following page you will find some information regarding your stay, If you have any question, don’t hesitate to contact us",
+        "paragraph": "Dear guests, welcome to Hotel Lindenhof by Crossworld AG. Please find the information below regarding your stay. In case you have any questions, please do not hesitate to contact us. Our team will be happy to assist you.",
         "placeholder": "Please enter your question",
         "button": "Search"
     },
     "best_services": {
-        "title": "Our Best Services",
+        "title": "Our Services",
         "list": [
             {
                 "title": "Television & Radio",
@@ -24,7 +24,7 @@
             {
                 "title": "Wake Up call",
                 "img": "assets/images/list/wakeup.svg",
-                "paragraph": "For wake-up call please contact the front desk Tel. +41 33 952 20 30."
+                "paragraph": "For wake-up call please contact the front desk Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Adapter",
@@ -32,34 +32,34 @@
                 "paragraph": "If you have an electric appliance with a foreign plug, you can borrow an adapter, upon deposit, at the front desk. If you wish to keep it, it is also possible to buy the adapter at the front desk."
             },
             {
-                "title": "breakfast",
+                "title": "Breakfast",
                 "img": "assets/images/list/breakfast.svg",
-                "paragraph": "Breakfast Buffet Daily from 07.30am to 10.00am Take your time and enjoy a generous and balanced buffet breakfast in Brienzerstübe "
+                "paragraph": "Breakfast Buffet </br>  Daily from <strong>07.30am to 10.00am</strong> </br>Take your time and enjoy a generous and balanced buffet breakfast in Brienzerstübe. </br> Breakfast- room service also available on request."
             },
             {
                 "title": "Checkout",
                 "img": "assets/images/list/checkout.svg",
-                "paragraph": "On departure day, you may enjoy your room until 11.00 AM. Please contact the reception for a later check-out, Tel. +41 33 952 20 30"
+                "paragraph": "On departure day, you may enjoy your room until <strong>11.00 AM.</strong> </br> Please contact the reception for a later check-out, Tel. <strong>+41 33 952 20 30</strong>"
             },
             {
                 "title": "Emergency no.",
                 "img": "assets/images/list/emergency.svg",
-                "paragraph": "Recepti`on Tel. +41 33 952 20 30."
+                "paragraph": "Recepti`on Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Excursions",
                 "img": "assets/images/list/excursions.svg",
-                "paragraph": "Brienz, Interlaken and the Jungfrau Region offer numerous excursions. Relaxing by the lake, enjoying the view on a mountain peak or trying an adventure sport - there is something for everyone., Check out: https://www.brienzersee.ch/,https://www.interlaken.ch/,https://brienz-rothorn-bahn.ch/"
+                "paragraph": "Brienz, Interlaken and the Jungfrau Region offer numerous excursions. Relaxing by the lake, enjoying the view on a mountain peak or trying an adventure sport - there is something for everyone. Check out: </br> <a href='https://www.brienzersee.ch/'  target='_blank'>https://www.brienzersee.ch</a> </br> <a href='https://www.interlaken.ch/'  target='_blank'>https://www.interlaken.ch </a> </br>  <a href='https://brienz-rothorn-bahn.ch/'  target='_blank'>https://brienz-rothorn-bahn.ch</a> </br>"
             },
             {
                 "title": "Garden",
                 "img": "assets/images/list/garden.svg",
-                "paragraph": "We invite you to relax on our sun loungers in the garden behind the hotel"
+                "paragraph": "We invite you to relax on our sun loungers in the garden in front of the hotel."
             },
             {
                 "title": "Internet",
                 "img": "assets/images/list/internet.svg",
-                "paragraph": "Free WIFI high speed Internet access in your room, meeting rooms and all public areas. Access code voucher is available at the front desk. For more information, please contact the front desk: Tel. +41 33 952 20 30."
+                "paragraph": "Free WIFI high speed Internet access in your room, meeting rooms and all public areas. Access code voucher is available at the front desk. For more information, please contact the front desk: Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Laundry-Dry cleaning",
@@ -69,17 +69,17 @@
             {
                 "title": "Meeting & event",
                 "img": "assets/images/list/meeting.svg",
-                "paragraph": "3 event and meeting rooms are available to your disposal for up to 70 persons. For reservation or offer, please contact the front desk. Tel. +41 33 952 20 30."
+                "paragraph": "3 event and meeting rooms are available to your disposal for up to 70 persons. For reservation or offer, please contact the front desk. Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Pillows",
                 "img": "assets/images/list/pillow.svg",
-                "paragraph": "Do you wish extra pillow? Please contact the reception, Tel. +41 33 952 20 30."
+                "paragraph": "Do you wish extra pillow? also add incase if you’re allergic, Please contact the reception, <strong> Tel. +41 33 952 20 30.</string>"
             },
             {
                 "title": "Restaurant | Bar",
                 "img": "assets/images/list/bar.svg",
-                "paragraph": "Opening hours: 13.30 to 18.00 (small card) 18.00 to 21.00 (dinner)"
+                "paragraph": "Opening hours: </br> <strong> 13.30 to 18.00  (small card) </strong></br> <strong> 18.00 to 21.00 (dinner) </strong> "
             },
             {
                 "title": "Shoe cleaning machine",
@@ -89,7 +89,7 @@
             {
                 "title": "Smoking",
                 "img": "assets/images/list/smoking.svg",
-                "paragraph": "Smoking is forbidden in public areas as well as in all hotel rooms. Please note that smoking is only aloud in front of the hotel as well as on the balcony. In case of smoking in your room a penalty fee of CHF 150.- will be applied."
+                "paragraph": "Smoking is forbidden in public areas as well as in all hotel rooms. Please note that smoking is only aloud in front of the hotel as well as on the balcony. In case of smoking in your room a penalty fee of <strong>CHF 150.</strong> - will be applied."
             },
             {
                 "title": "Wellness",
@@ -99,8 +99,8 @@
         ]
     },
     "slider": {
-        "title": "Tourist Office Interlaken",
-        "sub_title": "Why the Holiday  region Interlaken is always worth visiting",
+        "title": "Tourist Office Brienz",
+        "sub_title": "Why the Holiday  region Brienz is always worth visiting",
         "line1": "Enjoy beautiful panoramic views of lakes and mountains",
         "line2": "Experience the customs and traditions of Switzerland, all in one place",
         "line3": "Attend conferences and events with a magnificent view",
@@ -122,5 +122,9 @@
         "website": {
             "label": "Website"
         }
+    },
+    "qr": {
+        "title":"Scan QR",
+        "description":"To get contact details on your smartphone."
     }
 }

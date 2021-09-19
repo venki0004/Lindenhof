@@ -4,12 +4,12 @@
     },
     "hero_section": {
         "title": "Hotelzimmerverzeichnis",
-        "paragraph": "Willkommen bei Royal-St.Georges Interlaken - MGallery Collection Wir freuen uns, Sie im Hotel Royal-St.Georges begrüßen zu dürfen und wünschen Ihnen einen angenehmen Aufenthalt. Auf der folgenden Seite finden Sie einige Informationen zu Ihrem Aufenthalt.",
+        "paragraph": "Liebe Gäste, herzlich willkommen im Hotel Lindenhof by Crossworld AG. Im Folgenden finden Sie Informationen zu Ihrem Aufenthalt. Sollten Sie Fragen haben, zögern Sie bitte nicht, uns zu kontaktieren. Unser Team wird Ihnen gerne weiterhelfen.",
         "placeholder": "Please enter your question",
         "button": "Suche"
     },
     "best_services": {
-        "title": "Unsere besten Dienstleistungen",
+        "title": "Unsere Dienstleistungen",
         "list": [
             {
                 "title": "Television & Radio",
@@ -24,7 +24,7 @@
             {
                 "title": "Weckruf",
                 "img": "assets/images/list/wakeup.svg",
-                "paragraph": "Für einen Weckruf kontaktieren Sie bitte die Rezeption Tel.+41 33 952 20 30."
+                "paragraph": "Für einen Weckruf kontaktieren Sie bitte die Rezeption Tel.<strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Adapter",
@@ -34,32 +34,32 @@
             {
                 "title": "Frühstück",
                 "img": "assets/images/list/breakfast.svg",
-                "paragraph": "Frühstücksbuffet Täglich von 07.30 Uhr bis 10.00 Uhr Nehmen Sie sich Zeit und geniessen Sie die Auswahl beim Frühstücksbüffet im Brienzerstübe."
+                "paragraph": "Frühstücksbuffet </br> Täglich von <strong>07.30 Uhr bis 10.00 Uhr</strong> </br> Nehmen Sie sich Zeit und genießen Sie ein reichhaltiges und ausgewogenes Frühstücksbuffet in der Brienzerstübe. </br> Auf Wunsch ist auch Frühstücks-Zimmerservice möglich."
             },
             {
                 "title": "Abreise",
                 "img": "assets/images/list/checkout.svg",
-                "paragraph": "Am Abreisetag steht Ihnen das Zimmer bis 11 Uhr zur Verfügung. Möchten Sie später abreisen, wenden Sie sich bitte an die Rezeption Tel. +41 33 952 20 30"
+                "paragraph": "Am Abreisetag steht Ihnen das Zimmer bis <strong>11 Uhr</strong> zur Verfügung. Möchten Sie später abreisen, wenden Sie sich bitte an die Rezeption Tel. <strong>+41 33 952 20 30</strong>"
             },
             {
                 "title": "Notfallnummer",
                 "img": "assets/images/list/emergency.svg",
-                "paragraph": "Rezeption Tel. +41 33 952 20 30."
+                "paragraph": "Rezeption Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Ausflüge",
                 "img": "assets/images/list/excursions.svg",
-                "paragraph": "Brienz, Interlaken und die Jungfrau Region bieten zahlreiche Ausflugsmöglichkeiten; ob Entspannen am See, die Aussicht genießen in den Bergen oder Action pur bei Adventure Sports, es ist für jeden etwas dabei. Informieren Sie sich unter https://www.brienzersee.ch/,https://www.interlaken.ch/,https://brienz-rothorn-bahn.ch/"
+                "paragraph": "Brienz, Interlaken und die Jungfrau Region bieten zahlreiche Ausflugsmöglichkeiten; ob Entspannen am See, die Aussicht genießen in den Bergen oder Action pur bei Adventure Sports, es ist für jeden etwas dabei. Informieren Sie sich unter: </br> <a href='https://www.brienzersee.ch/'  target='_blank'>https://www.brienzersee.ch</a> </br> <a href='https://www.interlaken.ch/'  target='_blank'>https://www.interlaken.ch </a> </br>  <a href='https://brienz-rothorn-bahn.ch/'  target='_blank'>https://brienz-rothorn-bahn.ch</a> </br>"
             },
             {
                 "title": "Garten",
                 "img": "assets/images/list/garden.svg",
-                "paragraph": "Wir laden Sie ein die Liegestühle im Garten hinter dem Hotel zum Sonnenbaden zu nutzen."
+                "paragraph": "Wir laden Sie ein, auf unseren Liegestühlen im Garten vor dem Hotel zu entspannen."
             },
             {
                 "title": "internet",
                 "img": "assets/images/list/internet.svg",
-                "paragraph": "Kostenloses WIFI-Lan in den Zimmern, Seminarräumen und allen öffentlichen Bereichen im Hotel. Zugangscode Voucher erhalten Sie an der Rezeption. Für weitere Informationen fragen Sie bitte die Rezeption: Tel. +41 33 952 20 30."
+                "paragraph": "Kostenloses WIFI-Lan in den Zimmern, Seminarräumen und allen öffentlichen Bereichen im Hotel. Zugangscode Voucher erhalten Sie an der Rezeption. Für weitere Informationen fragen Sie bitte die Rezeption: Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Wäscheservice-Chemische Reinigung",
@@ -69,17 +69,17 @@
             {
                 "title": "Seminare & Bankette",
                 "img": "assets/images/list/meeting.svg",
-                "paragraph": "3 Veranstaltungsräume bis 70 Personen stehen für Sie im Hotel zur Verfügung. Für Reservierung oder Anfrage, bitte kontaktieren Sie unsere Rezeption Tel. +41 33 952 20 30."
+                "paragraph": "3 Veranstaltungsräume bis 70 Personen stehen für Sie im Hotel zur Verfügung. Für Reservierung oder Anfrage, bitte kontaktieren Sie unsere Rezeption Tel. <strong>+41 33 952 20 30.</strong>"
             },
             {
                 "title": "Kissen",
                 "img": "assets/images/list/pillow.svg",
-                "paragraph": "Wünschen Sie ein zusätzliches Kissen? Bitte kontaktieren Sie die Rezeption, Tel. +41 33 952 20 30."
+                "paragraph": "Wünschen Sie ein zusätzliches Kopfkissen? auch für den Fall, dass Sie allergisch sind, kontaktieren Sie bitte die Rezeption, Tel. <strong> +41 33 952 20 30.</strong>"
             },
             {
                 "title": "Restaurant | Bar",
                 "img": "assets/images/list/bar.svg",
-                "paragraph": "Öffnungszeiten: 13.30 bis 18.00 Uhr (kleine Karte) 18.00 bis 21.00 Uhr (Abendessen)"
+                "paragraph": "Öffnungszeiten:</br> <strong>13.30 bis 18.00 Uhr (kleine Karte)</strong> </br> <strong> 18.00 bis 21.00 Uhr (Abendessen)</strong>"
             },
             {
                 "title": "Schuhputzmaschine",
@@ -89,7 +89,7 @@
             {
                 "title": "Rauchen",
                 "img": "assets/images/list/smoking.svg",
-                "paragraph": "Alle öffentlichen Bereiche sowie die Zimmer im Hotel Lindenhof Brienz sind rauchfrei. Wir möchten Sie daher höflich darauf hinweisen, dass das Rauchen einzig auf den Balkonen sowie vor dem Hotel gestattet ist. Bei Missachtung des Rauchverbots im Zimmer, erlauben wir uns eine Reinigungsgebühr in der Höhe von CHF 150.- zu erheben."
+                "paragraph": "Alle öffentlichen Bereiche sowie die Zimmer im Hotel Lindenhof Brienz sind rauchfrei. Wir möchten Sie daher höflich darauf hinweisen, dass das Rauchen einzig auf den Balkonen sowie vor dem Hotel gestattet ist. Bei Missachtung des Rauchverbots im Zimmer, erlauben wir uns eine Reinigungsgebühr in der Höhe von <strong>CHF 150.</strong> - zu erheben."
             },
             {
                 "title": "Wellness",
@@ -99,8 +99,8 @@
         ]
     },
     "slider": {
-        "title": "Touristeninformation Interlaken",
-        "sub_title": "Warum die Ferienregion Interlaken immer einen Besuch wert ist",
+        "title": "Touristeninformation Brienz",
+        "sub_title": "Warum die Ferienregion Brienz immer einen Besuch wert ist",
         "line1": "Genießen Sie herrliche Panoramablicke auf Seen und Berge",
         "line2": "Erleben Sie die Bräuche und Traditionen der Schweiz an einem Ort",
         "line3": "Besuchen Sie Konferenzen und Events mit einer herrlichen Aussicht",
@@ -122,5 +122,9 @@
         "website": {
             "label": "Webseite:"
         }
+    },
+    "qr": {
+        "title":"QR scannen",
+        "description":"So erhalten Sie Kontaktinformationen auf Ihrem Smartphone."
     }
 }

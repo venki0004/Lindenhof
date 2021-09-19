@@ -210,7 +210,7 @@ header {
     margin-left: 1em;
     color: #371E12;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 16px;
 }
 
@@ -247,9 +247,10 @@ header {
 .list-data .describe p {
     color: #371E12;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 14px;
     margin-top: 0.5em;
+    line-height: 18px;
 }
 
 .slider-wrapper {
@@ -373,6 +374,7 @@ footer {
     justify-content: space-between;
     position: relative;
     padding-top: 3em !important;
+    gap: 8em;
 }
 
 /* .footer:before {
@@ -392,7 +394,7 @@ footer {
 .bg-right {
     content: '';
     background: #FFF7EC;
-    width: 57%;
+    width: 50%;
     height: 100%;
     top: 0;
     right: 0;
@@ -457,7 +459,7 @@ footer .business .address {
 footer .scanner-section {
     display: flex;
     align-items: center;
-    margin: 3em 0 1.5em 0;
+    margin: 0em 0 3em 0;
 }
 
 footer .scanner-section .scanner-content {
@@ -597,14 +599,27 @@ footer .scanner-section .scanner-content p {
 
     .services {
         margin: 2em 0;
+        padding: 2em 1em 1em 1em;
     }
 
+    .search-section{
+        flex-direction: column;
+        gap: 11px;
+    }
+    .main-section .search-section input{
+        width: 100%;
+    }
+    .main-section .search-section button{
+        padding: 15px 6em;
+        margin-left: 0em;
+        width: 100%;
+    }
     /* slider start */
 
 
     .slider .slider-data {
         width: 100%;
-        margin-top: 22em;
+        margin-top: 17em;
     }
 
     .slider {
