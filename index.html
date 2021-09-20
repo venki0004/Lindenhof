@@ -137,7 +137,7 @@
             <div class="left ">
                 <h2 class="section-title" id="b_title">Business card</h2>
                 <ul class="business">
-                    <li>
+                    <li onclick="openMap()">
                         <svg width="23" height="26" viewBox="0 0 23 26" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path
                                 d="M8.84615 11.2667C8.84615 9.83266 10.0348 8.66739 11.5 8.66739C12.9652 8.66739 14.1538 9.83266 14.1538 11.2667C14.1538 12.7008 12.9652 13.8661 11.5 13.8661C10.0348 13.8661 8.84615 12.7008 8.84615 11.2667Z"
@@ -381,6 +381,9 @@
             }
             slides[slideIndex - 1].style.display = "block";
             dots[slideIndex - 1].className += " active";
+        }
+        function openMap(){
+            window.open('https://maps.app.goo.gl/cJJGbvhcdwzJNNgd8','_blank')
         }
     </script>
 

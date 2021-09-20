@@ -24,7 +24,7 @@
             {
                 "title": "Wake Up call",
                 "img": "assets/images/list/wakeup.svg",
-                "paragraph": "For wake-up call please contact the front desk Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "For wake-up call please contact the front desk Tel. <strong> <a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Adapter",
@@ -34,17 +34,17 @@
             {
                 "title": "Breakfast",
                 "img": "assets/images/list/breakfast.svg",
-                "paragraph": "Breakfast Buffet </br>  Daily from <strong>07.30am to 10.00am</strong> </br>Take your time and enjoy a generous and balanced buffet breakfast in Brienzerstübe. </br> Breakfast- room service also available on request."
+                "paragraph": "Breakfast Buffet </br>  Daily from <strong>07.30am to 10.00am</strong> </br>Take your time and enjoy a generous and balanced buffet breakfast in Brienzerstübe. </br> Room Service also available on request."
             },
             {
                 "title": "Checkout",
                 "img": "assets/images/list/checkout.svg",
-                "paragraph": "On departure day, you may enjoy your room until <strong>11.00 AM.</strong> </br> Please contact the reception for a later check-out, Tel. <strong>+41 33 952 20 30</strong>"
+                "paragraph": "On departure day, you may enjoy your room until <strong>11.00 AM.</strong> </br> Please contact the reception for a later check-out, Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Emergency no.",
                 "img": "assets/images/list/emergency.svg",
-                "paragraph": "Recepti`on Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Recepti`on Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Excursions",
@@ -59,7 +59,7 @@
             {
                 "title": "Internet",
                 "img": "assets/images/list/internet.svg",
-                "paragraph": "Free WIFI high speed Internet access in your room, meeting rooms and all public areas. Access code voucher is available at the front desk. For more information, please contact the front desk: Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Free WIFI high speed Internet access in your room, meeting rooms and all public areas. Access code voucher is available at the front desk. For more information, please contact the front desk: Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Laundry-Dry cleaning",
@@ -69,12 +69,12 @@
             {
                 "title": "Meeting & event",
                 "img": "assets/images/list/meeting.svg",
-                "paragraph": "3 event and meeting rooms are available to your disposal for up to 70 persons. For reservation or offer, please contact the front desk. Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "3 event and meeting rooms are available to your disposal for up to 70 persons. For reservation or offer, please contact the front desk. Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
-                "title": "Pillows",
+                "title": "Pillows and Blankets",
                 "img": "assets/images/list/pillow.svg",
-                "paragraph": "Do you wish extra pillow? also add incase if you’re allergic, Please contact the reception, <strong> Tel. +41 33 952 20 30.</string>"
+                "paragraph": "We can provide extra pillows and blankets at the reception. In case of any allergies,</br> Please contact the reception, Tel.<strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong> </br> The covers are changed once in every 3 days."
             },
             {
                 "title": "Restaurant | Bar",

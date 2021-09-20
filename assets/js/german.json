@@ -24,7 +24,7 @@
             {
                 "title": "Weckruf",
                 "img": "assets/images/list/wakeup.svg",
-                "paragraph": "Für einen Weckruf kontaktieren Sie bitte die Rezeption Tel.<strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Für einen Weckruf kontaktieren Sie bitte die Rezeption Tel.<strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Adapter",
@@ -34,17 +34,17 @@
             {
                 "title": "Frühstück",
                 "img": "assets/images/list/breakfast.svg",
-                "paragraph": "Frühstücksbuffet </br> Täglich von <strong>07.30 Uhr bis 10.00 Uhr</strong> </br> Nehmen Sie sich Zeit und genießen Sie ein reichhaltiges und ausgewogenes Frühstücksbuffet in der Brienzerstübe. </br> Auf Wunsch ist auch Frühstücks-Zimmerservice möglich."
+                "paragraph": "Frühstücksbuffet  </br> Täglich von <strong>07.30 Uhr bis 10.00 Uhr</strong> </br> Nehmen Sie sich Zeit und geniessen Sie die Auswahl beim Frühstücksbüffet im Brienzerstübe. </br> Zimmerservice auch auf Anfrage."
             },
             {
                 "title": "Abreise",
                 "img": "assets/images/list/checkout.svg",
-                "paragraph": "Am Abreisetag steht Ihnen das Zimmer bis <strong>11 Uhr</strong> zur Verfügung. Möchten Sie später abreisen, wenden Sie sich bitte an die Rezeption Tel. <strong>+41 33 952 20 30</strong>"
+                "paragraph": "Am Abreisetag steht Ihnen das Zimmer bis <strong>11 Uhr</strong> zur Verfügung. Möchten Sie später abreisen, wenden Sie sich bitte an die Rezeption Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Notfallnummer",
                 "img": "assets/images/list/emergency.svg",
-                "paragraph": "Rezeption Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Rezeption Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Ausflüge",
@@ -59,7 +59,7 @@
             {
                 "title": "internet",
                 "img": "assets/images/list/internet.svg",
-                "paragraph": "Kostenloses WIFI-Lan in den Zimmern, Seminarräumen und allen öffentlichen Bereichen im Hotel. Zugangscode Voucher erhalten Sie an der Rezeption. Für weitere Informationen fragen Sie bitte die Rezeption: Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Kostenloses WIFI-Lan in den Zimmern, Seminarräumen und allen öffentlichen Bereichen im Hotel. Zugangscode Voucher erhalten Sie an der Rezeption. Für weitere Informationen fragen Sie bitte die Rezeption: Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Wäscheservice-Chemische Reinigung",
@@ -69,12 +69,12 @@
             {
                 "title": "Seminare & Bankette",
                 "img": "assets/images/list/meeting.svg",
-                "paragraph": "3 Veranstaltungsräume bis 70 Personen stehen für Sie im Hotel zur Verfügung. Für Reservierung oder Anfrage, bitte kontaktieren Sie unsere Rezeption Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "3 Veranstaltungsräume bis 70 Personen stehen für Sie im Hotel zur Verfügung. Für Reservierung oder Anfrage, bitte kontaktieren Sie unsere Rezeption Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Kissen",
                 "img": "assets/images/list/pillow.svg",
-                "paragraph": "Wünschen Sie ein zusätzliches Kopfkissen? auch für den Fall, dass Sie allergisch sind, kontaktieren Sie bitte die Rezeption, Tel. <strong> +41 33 952 20 30.</strong>"
+                "paragraph": "Wir können zusätzliche Kissen und Decken an der Rezeption zur Verfügung stellen. </br> Im Falle von Allergien, kontaktieren Sie bitte die Rezeption, Tel. <strong> <a href='tel:+41339522030'>+41 33 952 20 30.</a></strong> </br> Die Bezüge werden einmal alle 3 Tage gewechselt."
             },
             {
                 "title": "Restaurant | Bar",

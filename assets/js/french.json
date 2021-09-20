@@ -24,7 +24,7 @@
             {
                 "title": "Reveil",
                 "img": "assets/images/list/wakeup.svg",
-                "paragraph": "Pour demander un appel de réveil veuillez contacter la réception au <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Pour demander un appel de réveil veuillez contacter la réception au <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Adapteur de secteur",
@@ -32,19 +32,19 @@
                 "paragraph": "Si vous avez des prises de courant étrangères vous pouvez demander un adaptateur à la réception en moyennant un dépôt, il est aussi possible d'acheter un de nos adaptateurs."
             },
             {
-                "title": "Petit-déjeuner",
+                "title": "Petit déjeuner",
                 "img": "assets/images/list/breakfast.svg",
-                "paragraph": "Petit-déjeuner buffet </br> Tous les jours de <strong>07.30h à 10.00h</strong> </br> Prenez votre temps et savourez un petit-déjeuner buffet généreux et équilibré dans le Brienzerstübe. </br> Service de petit-déjeuner en chambre également disponible sur demande."
+                "paragraph": "Buffet petit  </br>déjeuner Tous les jours de <strong>07.30 à 10.00</strong> </br> Prenez votre temps et savourez nos spécialités régionales dans nôtre Brienzerstübe. </br> Le service d'étage est également disponible sur demande."
             },
             {
                 "title": "Départ",
                 "img": "assets/images/list/checkout.svg",
-                "paragraph": "Le jour de votre départ vous pouvez profiter de la chambre jusqu'à <strong>11.00 AM.</strong> Si vous désirez rester plus longtemps merci de contacter au plus vite la réception au <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Le jour de votre départ vous pouvez profiter de la chambre jusqu'à <strong>11.00 AM.</strong> Si vous désirez rester plus longtemps merci de contacter au plus vite la réception au <strong>+<a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Numéro pour les urgences",
                 "img": "assets/images/list/emergency.svg",
-                "paragraph": "Rezeption Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Rezeption Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Excursions",
@@ -59,7 +59,7 @@
             {
                 "title": "Internet",
                 "img": "assets/images/list/internet.svg",
-                "paragraph": "Une connexion WIFI à haut débit est disponible dans tout l'hotel pour vous. Le code d'accès est disponible à la réception. Pour plus d'informations merci de contacter la réception: Tel. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Une connexion WIFI à haut débit est disponible dans tout l'hotel pour vous. Le code d'accès est disponible à la réception. Pour plus d'informations merci de contacter la réception: Tel. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Blanchissage-Lavage à sec",
@@ -69,12 +69,12 @@
             {
                 "title": "Conférences et banquets",
                 "img": "assets/images/list/meeting.svg",
-                "paragraph": "3 salles de conférence pouvant accueillir jusqu'à 70 personnes sont disponible à l'intérieure de l'hôtel. Pour réserver une salle où pour de plus amples informations veuillez contacter la réception au <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "3 salles de conférence pouvant accueillir jusqu'à 70 personnes sont disponible à l'intérieure de l'hôtel. Pour réserver une salle où pour de plus amples informations veuillez contacter la réception au <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong>"
             },
             {
                 "title": "Oreillers",
                 "img": "assets/images/list/pillow.svg",
-                "paragraph": "Souhaitez-vous un oreiller supplémentaire ? Ajoutez également en cas d'allergie, veuillez contacter la réception, Tél. <strong>+41 33 952 20 30.</strong>"
+                "paragraph": "Nous pouvons fournir des oreillers et des couvertures supplémentaires à la réception.</br>  En cas d'allergies, veuillez contacter la réception, Tél. <strong><a href='tel:+41339522030'>+41 33 952 20 30.</a></strong> </br> Les couvertures sont changées une fois tous les 3 jours."
             },
             {
                 "title": "Restaurant | Bar",
